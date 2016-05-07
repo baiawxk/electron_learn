@@ -1,0 +1,1324 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"log",
+				"log4js"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"isTo",
+				"isTomorrow"
+			],
+			[
+				"task",
+				"taskTags"
+			],
+			[
+				"tasks",
+				"taskSchedule"
+			],
+			[
+				"inbox",
+				"INBOX"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 1645,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/学习/workspace/electron/electron-quick-start/main.js",
+			"settings":
+			{
+				"buffer_size": 1794,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "electron main.js",
+			"file": "/D/Program Files (x86)/Sublime Text 3/run.bat",
+			"file_size": 16,
+			"file_write_time": 131065492451784391,
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/nodejs-harmony.sublime-build",
+			"settings":
+			{
+				"buffer_size": 149,
+				"line_ending": "Windows",
+				"name": "untitled.sublime-build"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 54,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/学习/workspace/electron/electron-quick-start/renderer.js",
+			"settings":
+			{
+				"buffer_size": 171,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					""
+				],
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/JavaScript & Coffeescript Build Systems/xCoffee.sublime-build",
+					""
+				],
+				[
+					"Packages/JavaScript & Coffeescript Build Systems/xCoffee.sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/coffee.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/JavaScript & Coffeescript Build Systems/xBabel.sublime-build",
+					""
+				],
+				[
+					"Packages/JavaScript & Coffeescript Build Systems/xBabel.sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+					""
+				],
+				[
+					"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/JavaScript & Coffeescript Build Systems/xJs.sublime-build",
+					"Harmony"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/nodejs.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/nodejs.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/nodejs.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/nodejs.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pcak",
+				"Package Control: Install Package"
+			],
+			[
+				"inp",
+				"Package Control: Install Package"
+			],
+			[
+				"instal pack",
+				"Package Control: Install Package"
+			],
+			[
+				"keysdef",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keys",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ali key",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"keyuser",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"snippet:get",
+				"Snippet: Get Elements"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if"
+			],
+			[
+				"Snippet: fn",
+				"Snippet: Function"
+			],
+			[
+				"remop",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Channel"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"removepackage",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"removepack",
+				"Package Control: Remove Package"
+			],
+			[
+				"removepacek",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimallupload",
+				"Sublimall: Upload"
+			],
+			[
+				"isntall pa",
+				"Package Control: Install Package"
+			],
+			[
+				"listpackage",
+				"Package Control: List Packages"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pacek",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"package remov pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"note",
+				"Notes: Inbox"
+			],
+			[
+				"line",
+				"Sort Lines"
+			],
+			[
+				"snippconsolog",
+				"Snippet: console.log"
+			],
+			[
+				"snippaler",
+				"Snippet: alert"
+			],
+			[
+				"snippi",
+				"Snippet: interval"
+			],
+			[
+				"snipp",
+				"Snippet: prototype"
+			],
+			[
+				"packinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"file close",
+				"File: Close All"
+			],
+			[
+				"file search",
+				"File: Search Files"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"file ser",
+				"File: Search Files"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"cl all",
+				"Bookmarks: Clear All"
+			],
+			[
+				"",
+				"Package Control: Add Channel"
+			],
+			[
+				"copy as",
+				"File: Copy as Tag a"
+			],
+			[
+				"copy name ed",
+				"File: Copy Name Encoded"
+			],
+			[
+				"copy path",
+				"File: Copy Path"
+			],
+			[
+				"copy url",
+				"File: Copy URL"
+			],
+			[
+				"copy name ",
+				"File: Copy Name"
+			],
+			[
+				"copyname",
+				"File: Copy Name"
+			],
+			[
+				"projectrefre",
+				"Project: Refresh Folders"
+			],
+			[
+				"project edit",
+				"Project: Edit"
+			],
+			[
+				"add folder",
+				"Project: Add Folder"
+			],
+			[
+				"addfolder",
+				"Project: Add Folder"
+			],
+			[
+				"codeinte",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"packageinstall",
+				"Package Control: Install Package"
+			],
+			[
+				"match",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 725.0
+	},
+	"console":
+	{
+		"height": 279.0,
+		"history":
+		[
+			"cd",
+			"dir",
+			"ls",
+			"test",
+			"cmd",
+			"start .",
+			"start /",
+			"open .",
+			"dir",
+			"cd",
+			"pwd",
+			"help",
+			"quit",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/学习/workspace/electron/test1"
+	],
+	"file_history":
+	[
+		"/D/Program Files (x86)/Sublime Text 3/run.bat",
+		"/D/Program Files (x86)/Sublime Text 3/1321",
+		"/D/学习/workspace/electron/test1/run.bat",
+		"/D/学习/workspace/electron/electron-quick-start/main.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/nodejs.sublime-build",
+		"/D/学习/workspace/electron/test1/    at Object.<anonymous> (D",
+		"/D/学习/workspace/electron/test1/package.json",
+		"/D/学习/workspace/electron/electron-quick-start/renderer.js",
+		"/D/学习/workspace/electron/electron-quick-start/package.json",
+		"/D/学习/workspace/electron/test1/Error",
+		"/D/学习/workspace/electron/test1/main.js",
+		"/D/学习/workspace/electron/electron-quick-start/node_modules/electron-prebuilt/test/index.js",
+		"/D/学习/workspace/electron/test1/index.html",
+		"/D/学习/workspace/electron/test1/node_modules/electron/index.js",
+		"/D/学习/workspace/nw.js/hello2/index.html",
+		"/D/学习/workspace/nw.js/POC/nwjs-sdk-v0.14.2-win-x64/payload.json",
+		"/C/Users/Administrator/AppData/Roaming/npm/node_modules/nw/package.json",
+		"/D/学习/workspace/nw.js/hello/index.html",
+		"/C/Users/Administrator/Documents/test/nodejs/1.js",
+		"/D/学习/workspace/nw.js/hello/package.json",
+		"/D/学习/workspace/nw.js/POC/nwjs-v0.14.2-win-x64/app/v0.0.1/package.json",
+		"/D/学习/workspace/nw.js/POC/nwjs-sdk-v0.14.2-win-x64/credits.html",
+		"/D/学习/workspace/nw.js/POC/nwjs-sdk-v0.14.2-win-x64/locales/am.pak",
+		"/D/学习/workspace/chrome/spider/bin/spider_cmd.js",
+		"/D/学习/workspace/nodejs/common/state.js",
+		"/C/Users/Administrator/Desktop/test/1.js",
+		"/C/Users/Administrator/1.txt",
+		"/C/Users/Administrator/AppData/Roaming/Tencent/QPlus/QPlusWhatsnew.txt",
+		"/D/学习/workspace/chrome/spider/spider.js",
+		"/D/学习/workspace/chrome/spider/1.js",
+		"/D/学习/workspace/chrome/spider/url/http.js",
+		"/D/学习/workspace/chrome/heylo/manifest.json",
+		"/C/Users/Administrator/1.js",
+		"/C/Users/Administrator/AppData/Local/Temp/360zip$Temp/360$0/安装破解步骤.txt",
+		"/D/学习/workspace/chrome/spider/node_modules/commander/index.js",
+		"/D/学习/workspace/chrome/spider/2.coffee",
+		"/D/学习/workspace/chrome/spider/node_modules/hoek/test/modules/test1.js",
+		"/D/Program Files (x86)/Sublime Text 3/1.coffee",
+		"/D/学习/workspace/chrome/spider/task.js",
+		"/D/学习/workspace/chrome/spider/default/task.json",
+		"/D/学习/workspace/chrome/spider/url/        owner",
+		"/D/学习/workspace/chrome/spider/common.js",
+		"/D/学习/workspace/chrome/spider/url/urlHandle.js",
+		"/D/学习/workspace/chrome/spider/abc/url.js",
+		"/D/学习/workspace/chrome/spider/url/url.js",
+		"/D/学习/workspace/chrome/spider/url/[path",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/学习/workspace/chrome/spider/test/task.json",
+		"/D/学习/workspace/chrome/spider/config.js",
+		"/D/学习/workspace/nodejs/Command/get.js",
+		"/D/学习/workspace/chrome/spider/node_modules/lodash/object/get.js",
+		"/D/学习/workspace/chrome/spider/package.json",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/学习/workspace/chrome/spider/[32m[2015-10-31 21",
+		"/D/学习/workspace/chrome/spider/index.js",
+		"/D/学习/workspace/chrome/spider/underscore.txt",
+		"/D/学习/workspace/chrome/spider/default/try.js",
+		"/D/学习/workspace/chrome/spider/default/cmd_list.txt",
+		"/D/学习/workspace/chrome/spider/default/url.js",
+		"/D/学习/workspace/chrome/spider/default/template.js",
+		"/D/学习/workspace/chrome/spider/test/readme.md",
+		"/D/学习/workspace/chrome/spider/test/cmd_list.txt",
+		"/D/学习/workspace/chrome/spider/  readlinkSync",
+		"/D/学习/workspace/chrome/spider/ReferenceError",
+		"/C/Users/Administrator/AppData/Roaming/npm/node_modules/spider/bin/spider.js",
+		"/D/学习/workspace/chrome/spider/bin/  Options",
+		"/D/学习/workspace/nodejs/Command/package.json",
+		"/D/学习/workspace/chrome/spider/default/index.js",
+		"/D/学习/workspace/chrome/spider/default/readme.md",
+		"/C/Users/Administrator/AppData/Roaming/npm/node_modules/TestCommand/get.js",
+		"/D/学习/workspace/chrome/heylo/ClientTab.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/sbc-setting.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Better Completion/sbc-setting.sublime-settings",
+		"/D/学习/workspace/nodejs/Command/1.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/D/学习/workspace/nodejs/Command/1.coffee",
+		"/D/学习/workspace/nodejs/javascript/common/node_modules/spider/www.44smsm.com.js",
+		"/D/学习/workspace/chrome/heylo/test.js",
+		"/D/学习/workspace/chrome/heylo/contentScript.js",
+		"/D/学习/workspace/chrome/heylo/background.js",
+		"/D/学习/workspace/chrome/heylo/commands.js",
+		"/D/学习/workspace/nodejs/package.json",
+		"/D/学习/workspace/chrome/heylo/[35m[2015-10-25 23",
+		"/D/学习/workspace/chrome/archive/jquery inject/manifest.json",
+		"/D/学习/workspace/chrome/temp/futureMe乱码翻译/transfer.js",
+		"/D/学习/workspace/chrome/temp/20151025/transfer.js",
+		"/D/学习/workspace/chrome/temp/1.js",
+		"/D/学习/workspace/chrome/temp/20151025/1.txt",
+		"/D/学习/workspace/chrome/temp/20151025/点我进行翻译.bat",
+		"/D/学习/workspace/chrome/temp/20151025/  readFile",
+		"/D/学习/workspace/chrome/temp/transfer.js",
+		"/D/学习/workspace/chrome/temp/  fromEncoding",
+		"/D/Program Files (x86)/nodejs/node_modules/npm/1.tx",
+		"/D/学习/workspace/chrome/temp/Error",
+		"/D/学习/workspace/chrome/jquery inject/manifest.json",
+		"/D/学习/workspace/chrome/jquery inject/inject.js",
+		"/D/学习/workspace/chrome/jquery inject/background.js",
+		"/D/学习/workspace/chrome/jquery inject/manifest.bak",
+		"/C/Users/Administrator/Desktop/helloworld/common.js",
+		"/D/学习/workspace/chrome/jquery inject/bower_components/jquery/dist/jquery.js",
+		"/C/Users/Administrator/Desktop/app.lnk",
+		"/C/Users/Administrator/Desktop/helloworld/manifest.json",
+		"/[path",
+		"/D/Program Files (x86)/Sublime Text 3/console.log(3213);",
+		"/C/Users/Administrator/Desktop/path.bakup",
+		"/C/Users/Administrator/Desktop/1.JS",
+		"/D/Program Files (x86)/Sublime Text 3/tset",
+		"/C/Users/Administrator/Desktop/[path",
+		"/C/Users/Administrator/Desktop/[dir",
+		"/D/学习/workspace/chrome/helloworld/background.js",
+		"/C/Users/Administrator/Desktop/helloworld/mainfest.json",
+		"/C/Users/Administrator/Desktop/helloworld/mainifest.json",
+		"/C/Users/Administrator/file",
+		"/C/Users/Administrator/Desktop/keep.html",
+		"/D/学习/workspace/test/todo/template.html",
+		"/D/学习/workspace/test/todo/todo.html",
+		"/D/学习/workspace/test/todo/common.js",
+		"/D/学习/workspace/test/todo/1.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/D/学习/workspace/test/todo/2.js",
+		"/D/学习/workspace/sublime/snippets/fn.sublime-snippet",
+		"/D/学习/workspace/test/doit/todo.js",
+		"/D/学习/workspace/sublime/doit.sublime-project",
+		"/D/学习/workspace/test/todo/3.js",
+		"/D/学习/workspace/sublime/doit.sublime-workspace",
+		"/D/学习/workspace/test/todo/js/common.js"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 147.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Window",
+			"this",
+			"toc",
+			"urlTask",
+			"name",
+			"Timeout",
+			"timeout",
+			"Timeout",
+			"timeout",
+			"continue",
+			"data",
+			"str",
+			"preStr",
+			"// urls.push(\"https://www.zhifdsafdshuzhifdsafdshuzhifdsafdshuzhifdsafdshuzhifdsafdshuzhifdsafdshuzhifdsafdshuzhifdsafdshu.com\");\n",
+			"function",
+			"\n}",
+			"	\n",
+			"test",
+			"	\n",
+			"arguments",
+			"function",
+			"{\n",
+			"\n	",
+			"methodName",
+			"ignored_packages",
+			"(){\n",
+			"function",
+			"addr",
+			"request",
+			"reque",
+			"debug",
+			"path",
+			"fN",
+			"fn",
+			".command",
+			"command",
+			"Command",
+			"command",
+			"Command",
+			"test",
+			"index",
+			"sub",
+			"su",
+			"sU",
+			"su",
+			"sU",
+			"sub",
+			"is",
+			"as",
+			"	\n",
+			"body",
+			"defaultLayout",
+			"},\n",
+			"cheese",
+			"\");\n",
+			"show_panel",
+			"\");\n",
+			"option",
+			"times",
+			"sendResponse",
+			"req",
+			"res",
+			"funName",
+			"commandFun",
+			"funName",
+			"commandFun",
+			"res",
+			"commandFun",
+			"json",
+			"str",
+			"gbk",
+			"gb2312",
+			"gbk",
+			"utf-8",
+			"file",
+			");\n",
+			"http",
+			");",
+			"Administrator",
+			"Management",
+			"npm",
+			"\\\\",
+			"nodejs\\\\node",
+			"\\",
+			")\\",
+			":\\",
+			"Program",
+			"ctrl+shift+u",
+			"ctrl+shift+y",
+			"ctrl+shift+e",
+			"ctrl+shift+l",
+			"ctrl+shift+h",
+			"ctrl+shift+d",
+			"ctrl+k",
+			"line",
+			"delete",
+			"ctrl+k",
+			"cancel",
+			"ctrl+t",
+			"eol",
+			"ctrl+e",
+			"eol",
+			"dir",
+			"log",
+			"fdsaf dsa f",
+			"dfsafds31321321",
+			"sdfjsadlf",
+			"fdslkafjdls",
+			"dfsjfld",
+			"fdsafl",
+			"fd",
+			"f",
+			" ",
+			"af",
+			"fdsjklafjkldsj",
+			"dsfjdaslkfjd",
+			"fdsafd",
+			"cnos",
+			"\">",
+			"line",
+			"bower_components",
+			"line",
+			"delete",
+			">\n",
+			"snippet",
+			"(){\n",
+			" ",
+			"focusView"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"log",
+			"dir",
+			"/",
+			"console",
+			"text"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								522,
+								582
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/学习/workspace/electron/electron-quick-start/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1794
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Program Files (x86)/Sublime Text 3/run.bat",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/nodejs-harmony.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 54,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								54
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 250.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/学习/workspace/electron/electron-quick-start/renderer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 302.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.jotter":
+	{
+		"height": 232.0
+	},
+	"pinned_build_system": "Packages/User/nodejs-harmony.sublime-build",
+	"project": "electron-test1.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.js",
+				"main.js"
+			],
+			[
+				"runb.a",
+				"run.bat"
+			],
+			[
+				"main.j",
+				"main.js"
+			],
+			[
+				"man.js",
+				"main.js"
+			],
+			[
+				"index.html",
+				"index.html"
+			],
+			[
+				"index.h",
+				"index.html"
+			],
+			[
+				"http.js",
+				"url\\http.js"
+			],
+			[
+				"spidr.js",
+				"spider.js"
+			],
+			[
+				"index.js",
+				"node_modules\\commander\\index.js"
+			],
+			[
+				"1.js",
+				"node_modules\\hoek\\test\\modules\\test1.js"
+			],
+			[
+				"coff",
+				"2.coffee"
+			],
+			[
+				"task.js",
+				"task.js"
+			],
+			[
+				"url.js",
+				"abc\\url.js"
+			],
+			[
+				"urlhand",
+				"url\\urlHandle.js"
+			],
+			[
+				"com",
+				"common.js"
+			],
+			[
+				"get.js",
+				"node_modules\\lodash\\object\\get.js"
+			],
+			[
+				"ge.js",
+				"package.json"
+			],
+			[
+				"comon.",
+				"common.js"
+			],
+			[
+				"task.json",
+				"default\\task.json"
+			],
+			[
+				"spider.js",
+				"spider.js"
+			],
+			[
+				"spider",
+				"spider.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"index.",
+				"D:\\学习\\workspace\\chrome\\spider\\index.js"
+			],
+			[
+				"mani",
+				"heylo\\manifest.json"
+			],
+			[
+				"back",
+				"background.js"
+			],
+			[
+				"bak",
+				"background.js"
+			],
+			[
+				"comon.js",
+				"common.js"
+			],
+			[
+				"common",
+				"common.js"
+			],
+			[
+				"2.sj",
+				"2.js"
+			],
+			[
+				"todo.js",
+				"todo.js"
+			],
+			[
+				"commo",
+				"js\\common.js"
+			],
+			[
+				"common.js",
+				"common.js"
+			],
+			[
+				"como",
+				"common.js"
+			],
+			[
+				"tood.html",
+				"todo.html"
+			],
+			[
+				"co",
+				"common.js"
+			],
+			[
+				"2.js",
+				"2.js"
+			],
+			[
+				"/",
+				"C:\\Users\\Administrator\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\Default (Windows).sublime-keymap"
+			],
+			[
+				"comon",
+				"common.js"
+			],
+			[
+				"boostrap.js",
+				"bower_components\\bootstrap\\dist\\js\\bootstrap.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"template",
+				"template.html"
+			],
+			[
+				"test.js",
+				"js\\test.js"
+			],
+			[
+				"respond.min.js",
+				"bower_components\\respond\\dest\\respond.min.js"
+			],
+			[
+				"html5shiv.min.js",
+				"bower_components\\html5shiv\\dist\\html5shiv.min.js"
+			],
+			[
+				"boostrap.min.js",
+				"bower_components\\bootstrap\\dist\\js\\bootstrap.min.js"
+			],
+			[
+				"jquery.min.js",
+				"bower_components\\jquery\\dist\\jquery.min.js"
+			],
+			[
+				"bootstrap.min.css",
+				"bower_components\\bootstrap\\dist\\css\\bootstrap.min.css"
+			],
+			[
+				"list",
+				"list"
+			],
+			[
+				"tod",
+				"todo.js"
+			],
+			[
+				"todo",
+				"todo.js"
+			],
+			[
+				"a.txt",
+				"test\\abcd\\a.txt"
+			],
+			[
+				"main.html",
+				"main.html"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"",
+				"todo.js"
+			],
+			[
+				"sub",
+				"D:\\学习\\workspace\\sublime\\sublime插件.txt"
+			],
+			[
+				"1.txt",
+				"D:\\学习\\workspace\\test\\doit\\1.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "electrotest1",
+		"selected_items":
+		[
+			[
+				"electrotest1",
+				"D:\\学习\\workspace\\electron\\test1\\electron-test1.sublime-project"
+			],
+			[
+				"spider",
+				"C:\\Users\\Administrator\\Documents\\Sublime Project\\spider.sublime-project"
+			],
+			[
+				"chrome",
+				"C:\\Users\\Administrator\\Documents\\Sublime Project\\chrome.sublime-project"
+			],
+			[
+				"bene",
+				"C:\\Users\\Administrator\\Documents\\Sublime Project\\bene.sublime-project"
+			],
+			[
+				"todo",
+				"C:\\Users\\Administrator\\Documents\\Sublime Project\\todo.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\Administrator\\Documents\\Sublime Project\\mp.sublime-project"
+			],
+			[
+				"doit",
+				"D:\\学习\\workspace\\sublime\\doit.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
